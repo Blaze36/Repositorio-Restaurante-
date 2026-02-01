@@ -1,0 +1,15 @@
+{
+  "Comidas": [
+    {"nombre": "Hot Dog", "precio": "L 150.00"},
+    {"nombre": "Pizza", "precio": "L 120.00"},
+    {"nombre": "Baleadas Con Aguacate", "precio": "L 50.00"}
+  ],
+  "Bebidas": [
+    {"nombre": "Limonada con Coco", "precio": "L 45.00"},
+    {"nombre": "Refresco 500ml", "precio": "L 30.00"}
+  ],
+  "Postres": [
+    {"nombre": "Gelatina", "precio": "L 60.00"},
+    {"nombre": "Tres Leches", "precio": "L 75.00"}
+  ]
+}
